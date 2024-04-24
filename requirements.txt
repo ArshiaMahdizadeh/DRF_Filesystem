@@ -1,0 +1,4 @@
+Django==4.2.7
+Django==5.0.4
+djangorestframework==3.15.1
+hachoir==3.3.0
